@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+models/
+test/
+tmp/
+facelib/
+speakers/
