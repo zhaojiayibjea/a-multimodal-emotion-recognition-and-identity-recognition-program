@@ -17,7 +17,7 @@
 2. 将项目完整下载到本地：
 
     ```bash
-    git clone https://github.com/zhaojiayibjea/chuyan_backend.git
+    git clone https://github.com/zhaojiayibjea/a-multimodal-emotion-recognition-and-identity-recognition-program.git
     ```
 
 3. 安装python依赖包：
